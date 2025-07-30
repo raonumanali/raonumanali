@@ -1,5 +1,5 @@
 ## 
-![NUMAN ALI RAO Banner](https://raw.githubusercontent.com/raonumanali/bannerlogo/main/logo.png)
+![NUMAN ALI RAO Banner](https://raw.githubusercontent.com/raonumanali/bannerlogo/main/github-header-image.png)
 
                                                                                                                
                                                                                                                
